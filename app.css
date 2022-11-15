@@ -173,16 +173,6 @@ main {
   z-index: 2;
 }
 
-.slider-bg {
-  width: 50%;
-  height: 0.8em;
-  border-radius: 2em;
-  position: absolute;
-  bottom: 0.3em;
-  z-index: 0;
-  background-color: var(--SoftCyan-Full-Slider-Bar);
-}
-
 .package {
   width: 77%;
   margin: 0 auto;
